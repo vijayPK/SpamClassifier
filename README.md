@@ -1,2 +1,2 @@
 # Spam_classifier
-Simple e-mail classifier using naive bayes
+This is e-mail spam classifier using naive bayes.
