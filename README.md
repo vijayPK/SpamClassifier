@@ -1,4 +1,4 @@
-# HamOrSpam
+# SpamClassifier
 This is spam classifier using Naive Bayes classifiers, a family of classifiers that are based on the popular Bayes’
 probability theorem. It basicaaly say whether a given message is spam or not. 
 
