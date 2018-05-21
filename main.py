@@ -8,7 +8,7 @@ data = pandas.read_csv(training_data)
 clf = MultinomialNB()
 vectorizer = CountVectorizer()
 
-message = vectorizer.fit_transform(data["text"].values)
-targets = data["type"].values
-clf.fit(message,targets)
+messages = vectorizer.fit_transform(data["text"].values)
+targets  = data["type"].values
+clf.fit(messages,targets)
 print(clf.predict(vectorizer.transform(["hiii,how are u"])))
