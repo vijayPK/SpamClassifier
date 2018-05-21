@@ -15,8 +15,8 @@ To know more about how Naive Bayes classifiers work check the link below.
 http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 
 
-# Working
-Here Multinovial Naive Bayes classifier is used.
-Functions readFile and readFiles read file and then a dataframe is created using dataFrameFromDirectory methos for training our model. CountVectorizer is used vectorize the data. Then its is feed into classifier for training.
+<a href=""> Check this article</a> to know how to works.
 
 Using predict method of classifier are used to predict whether mail is spam or not. 
+
+Code with :heart:
