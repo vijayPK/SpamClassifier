@@ -1,6 +1,6 @@
 # HamOrSpam
-This is e-mail spam classifier using Naive Bayes classifiers, a family of classifiers that are based on the popular Bayes’
-probability theorem.
+This is spam classifier using Naive Bayes classifiers, a family of classifiers that are based on the popular Bayes’
+probability theorem. It basicaaly say whether a given message is spam or not. 
 
 # Requirements
 
@@ -10,8 +10,6 @@ http://scikit-learn.org/stable/install.html
 pandas
 https://pandas.pydata.org/pandas-docs/stable/install.html
 
-numpy
-https://docs.scipy.org/doc/numpy-1.13.0/user/install.html
 
 To know more about how Naive Bayes classifiers work check the link below.
 http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
