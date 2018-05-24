@@ -17,4 +17,4 @@ http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 
 <a href="https://medium.com/@iamHarin/spam-classifier-in-12-lines-38744dcdcda8"> Check this article</a> to know how this works.
 
-Code with :heart:
+# Code with :heart:
