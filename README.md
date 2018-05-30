@@ -6,16 +6,16 @@ probability theorem. It basicaaly say whether a given message is spam or not.
 
 * Python >= 3
 
-[Install python3](https://www.python.org/downloads/)
+  [Check this link to install python3](https://www.python.org/downloads/)
 * sklearn
 ```
-pip3 install scikit-learn 
+  pip3 install scikit-learn 
 ```
 
 * pandas
 
 ```
-pip3 install pandas 
+  pip3 install pandas 
 ```
 
 
