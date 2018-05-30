@@ -7,12 +7,17 @@ probability theorem. It basicaaly say whether a given message is spam or not.
 * Python >= 3
 
   [Check this link to install python3](https://www.python.org/downloads/)
-* sklearn
+  
+* Pip
+```
+  sudo apt-get install python3-pip 
+```
+* Sklearn
 ```
   pip3 install scikit-learn 
 ```
 
-* pandas
+* Pandas
 
 ```
   pip3 install pandas 
