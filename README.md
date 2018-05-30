@@ -31,6 +31,7 @@ python3 main.py
 
 ## Further reference
 [Naive Bayes](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html)
+
 [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
 ### Code with :heart: Harin
