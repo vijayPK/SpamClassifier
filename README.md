@@ -28,7 +28,7 @@ probability theorem. It predict whether a given message is spam or not.
 ```
 python3 main.py
 ```
-String in the message ```message``` variable is classified spam or not. 
+String in the ```message``` variable is classified spam or not. 
 
 ## Further reference
 [Naive Bayes](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html)
