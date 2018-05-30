@@ -1,6 +1,6 @@
 # SpamClassifier
-This is spam classifier using Naive Bayes classifiers, a family of classifiers that are based on the popular Bayes’
-probability theorem. It basicaaly say whether a given message is spam or not. 
+This is a spam classifier using Naive Bayes classifiers, a family of classifiers that are based on the popular Bayes’
+probability theorem. It predict whether a given message is spam or not. 
 ###### This <a href="https://medium.com/@iamHarin/spam-classifier-in-12-lines-38744dcdcda8">article</a> explains how this code works.
 ## Requirements
 
@@ -31,6 +31,6 @@ python3 main.py
 
 ## Further reference
 [Naive Bayes](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html)
-
+[Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
 ### Code with :heart: Harin
