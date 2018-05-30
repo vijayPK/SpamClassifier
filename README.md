@@ -29,7 +29,7 @@ probability theorem. It basicaaly say whether a given message is spam or not.
 python3 main.py
 ```
 
-<a href="https://medium.com/@iamHarin/spam-classifier-in-12-lines-38744dcdcda8"> Check this article</a> to know how this works.
+ ###### This <a href="https://medium.com/@iamHarin/spam-classifier-in-12-lines-38744dcdcda8">article</a> explains how this code works.
 
 To know more about how Naive Bayes classifiers work check the link below.
 http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
