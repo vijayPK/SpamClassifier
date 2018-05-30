@@ -4,10 +4,18 @@ probability theorem. It basicaaly say whether a given message is spam or not.
 
 ## Requirements
 
-sklearn
-http://scikit-learn.org/stable/install.html
+* Python >= 3
+  [https://www.python.org/downloads/Install] python3
+* sklearn
+```
+pip3 install scikit-learn 
+```
 
-pandas
+* pandas
+
+```
+pip3 install pandas 
+```
 https://pandas.pydata.org/pandas-docs/stable/install.html
 
 ## To Run
