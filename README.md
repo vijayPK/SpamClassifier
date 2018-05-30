@@ -11,7 +11,10 @@ pandas
 https://pandas.pydata.org/pandas-docs/stable/install.html
 
 ## To Run
-```python3 main.py```
+```
+python3 main.py
+
+```
 
 <a href="https://medium.com/@iamHarin/spam-classifier-in-12-lines-38744dcdcda8"> Check this article</a> to know how this works.
 
