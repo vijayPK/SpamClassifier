@@ -11,4 +11,5 @@ vectorizer = CountVectorizer()
 messages = vectorizer.fit_transform(data["text"].values)
 targets  = data["type"].values
 clf.fit(messages,targets)
-print(clf.predict(vectorizer.transform(["hiii,how are u"])))
+message = "hiii,how are u"
+print(clf.predict(vectorizer.transform([message])))
