@@ -5,6 +5,7 @@ probability theorem. It basicaaly say whether a given message is spam or not.
 ## Requirements
 
 * Python >= 3
+
 [Install python3](https://www.python.org/downloads/)
 * sklearn
 ```
