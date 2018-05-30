@@ -31,8 +31,8 @@ python3 main.py
 
  ###### This <a href="https://medium.com/@iamHarin/spam-classifier-in-12-lines-38744dcdcda8">article</a> explains how this code works.
 
-To know more about how Naive Bayes classifiers work check the link below.
-http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
+## Further reference
+[Naive Bayes](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html).
 
 
 ### Code with :heart: Harin
