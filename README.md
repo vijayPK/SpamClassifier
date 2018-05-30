@@ -8,7 +8,7 @@ probability theorem. It basicaaly say whether a given message is spam or not.
 
   [Check this link to install python3](https://www.python.org/downloads/)
   
-* Pip
+* PIP
 ```
   sudo apt-get install python3-pip 
 ```
